@@ -1,0 +1,6 @@
+# So de referencia: o Colab ja roda os passos 1 a 5 sem instalar nada. Isso
+# aqui reproduz o ambiente localmente, caso queira (ver leitora_de_sentimentos_jupyter).
+transformers
+torch
+jupyterlab
+ipykernel
